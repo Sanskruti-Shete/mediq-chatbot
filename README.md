@@ -1,10 +1,10 @@
-Setup Instructions:
--> Clone the repo
--> Create a virtual environment: python -m venv venv
--> Activate the virtual environment: .\venv\Scripts\Activate
--> Install dependencies: pip install -r requirements.txt
--> Create .env file in project root: GROQ_API_KEY=your_actual_groq_api_key_here
--> Run the application: python app.py
+## Setup Instructions:
+-> Clone the repo <br>
+-> Create a virtual environment: python -m venv venv <br>
+-> Activate the virtual environment: .\venv\Scripts\Activate <br>
+-> Install dependencies: pip install -r requirements.txt <br>
+-> Create .env file in project root: GROQ_API_KEY=your_actual_groq_api_key_here <br>
+-> Run the application: python app.py <br>
 
 ## Tech Stack
 
